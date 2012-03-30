@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/53/trunk/client/src/com/flat20/gui/widgets
+END
+SensorXYPad.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/53/trunk/client/src/com/flat20/gui/widgets/SensorXYPad.java
+END
+FPButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/client/src/com/flat20/gui/widgets/FPButton.java
+END
+Slider.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/53/trunk/client/src/com/flat20/gui/widgets/Slider.java
+END
+Scrollbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53/trunk/client/src/com/flat20/gui/widgets/Scrollbar.java
+END
+Pad.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/53/trunk/client/src/com/flat20/gui/widgets/Pad.java
+END
+XYPad.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/53/trunk/client/src/com/flat20/gui/widgets/XYPad.java
+END
+MidiWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/client/src/com/flat20/gui/widgets/MidiWidget.java
+END
+MidiWidgetContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/35/trunk/client/src/com/flat20/gui/widgets/MidiWidgetContainer.java
+END
+DefaultMidiWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/client/src/com/flat20/gui/widgets/DefaultMidiWidget.java
+END
+SensorSlider.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/53/trunk/client/src/com/flat20/gui/widgets/SensorSlider.java
+END
+IScrollListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/22/trunk/client/src/com/flat20/gui/widgets/IScrollListener.java
+END
